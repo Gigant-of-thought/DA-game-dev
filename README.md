@@ -51,12 +51,11 @@ print('Hello World')
 ```
 
     Hello World
-    
+```    
 
 
 ```python
 
-```
 
 
 ## Задание 2
